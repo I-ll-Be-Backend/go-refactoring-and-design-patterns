@@ -13,6 +13,7 @@ Code from the [I'll Be Backend](https://www.youtube.com/@illbebackend) videos: m
 | Lesson | Steps | Video | Interactive |
 |---|---|---|---|
 | [DRY: one rule, one place](dry/) | 11 | [Watch](https://www.youtube.com/watch?v=JIynHedsM14) | [Open](https://illbebackend.dev/lessons/dry/go/) |
+| [KISS: replace a rule engine with plain code](kiss-unwind-a-clever-abstraction/) | 13 | [Watch](https://www.youtube.com/watch?v=BLqS4lM9p_0) | [Open](https://illbebackend.dev/lessons/kiss-unwind-a-clever-abstraction/go/) |
 | [Clean code: rename for intent](rename-for-intent/) | 13 | [Watch](https://www.youtube.com/watch?v=SbTa_iTQl_U) | [Open](https://illbebackend.dev/lessons/rename-for-intent/go/) |
 
 ## How to use it

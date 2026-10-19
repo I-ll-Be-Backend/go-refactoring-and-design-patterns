@@ -6,6 +6,7 @@ Code from the [I'll Be Backend](https://www.youtube.com/@illbebackend) videos: m
 
 | Lesson | Steps | Video | Interactive |
 |---|---|---|---|
+| [Long parameter list: introduce a parameter object](long-parameter-list-introduce-a-parameter-object/) | 12 | [Watch](https://www.youtube.com/watch?v=TZuVEMBOB8k) | [Open](https://illbebackend.dev/lessons/long-parameter-list-introduce-a-parameter-object/go/) |
 | [Clean code: replace comments with code](replace-comments-with-code/) | 14 | [Watch](https://www.youtube.com/watch?v=Pq_E5pg411Q) | [Open](https://illbebackend.dev/lessons/replace-comments-with-code/go/) |
 
 ## Principles
